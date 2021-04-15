@@ -13,15 +13,6 @@ public class HelloController {
 		
 		System.out.println("jenkins 테스트입니다.");
 		System.out.println("jenkins 테스트입니다.");
-		System.out.println("jenkins 테스트입니다.");
-		System.out.println("jenkins 테스트입니다.");
-		System.out.println("jenkins 테스트입니다.");
-		System.out.println("jenkins 테스트입니다.");
-		System.out.println("jenkins 테스트입니다.");
-		System.out.println("jenkins 테스트입니다.");
-		System.out.println("jenkins 테스트입니다.");
-		System.out.println("jenkins 테스트입니다.");
-		System.out.println("jenkins 테스트입니다.");
 		return "hello/main";
 		
 	}
