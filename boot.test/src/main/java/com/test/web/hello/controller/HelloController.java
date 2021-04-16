@@ -11,6 +11,14 @@ public class HelloController {
 	@GetMapping("/main")
 	public String main() {
 		System.out.println("jenkins 테스트입니다.");
+		System.out.println("jenkins 테스트입니다.");
+		System.out.println("jenkins 테스트입니다.");
+		System.out.println("jenkins 테스트입니다.");
+		System.out.println("jenkins 테스트입니다.");
+		System.out.println("jenkins 테스트입니다.");
+		System.out.println("jenkins 테스트입니다.");
+		System.out.println("jenkins 테스트입니다.");
+		System.out.println("jenkins 테스트입니다.");
 		
 		
 		
