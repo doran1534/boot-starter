@@ -6,7 +6,7 @@
 		SELECT
 			*
 		FROM
-			tb_membe
+			tb_member
 	</select>
 	
 </mapper>
